@@ -86,13 +86,13 @@
 ### 📈 GitHub Stats & Activities
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&bg_color=0D1117&title_color=58A6FF&text_color=c9d1d9&icon_color=3FB950&border_color=3FB950" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical&background=0D1117&title=58A6FF&fire=3FB950&ring=58A6FF&currStreakLabel=c9d1d9&border=3FB950" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=leelaf6&show_icons=true&theme=radical&bg_color=0D1117&title_color=58A6FF&text_color=c9d1d9&icon_color=3FB950&border_color=3FB950" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=leelaf6&theme=radical&background=0D1117&title=58A6FF&fire=3FB950&ring=58A6FF&currStreakLabel=c9d1d9&border=3FB950" alt="GitHub Streak" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&bg_color=0D1117&title_color=58A6FF&text_color=c9d1d9&border_color=3FB950" alt="Top Languages" width="48%" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=react-dark&bg_color=0D1117&color=58A6FF&line=3FB950&point=3FB950" alt="Activity Graph" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leelaf6&layout=compact&theme=radical&bg_color=0D1117&title_color=58A6FF&text_color=c9d1d9&border_color=3FB950" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=leelaf6&theme=react-dark&bg_color=0D1117&color=58A6FF&line=3FB950&point=3FB950" alt="Activity Graph" width="48%" />
 </p>
 
 <!-- Snake Game Animation -->
