@@ -98,7 +98,7 @@
 <!-- Snake Game Animation -->
 <h4 align="center">Contributions Snake Game</h4>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg" alt="github contribution grid snake activity" />
+  <img src="https://raw.githubusercontent.com/leelaf6/leelaf6/output/github-contribution-grid-snake.svg" alt="github contribution grid snake activity" />
 </p>
 
 ---
