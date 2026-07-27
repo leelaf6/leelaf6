@@ -86,12 +86,14 @@
 ### 📈 GitHub Stats & Activities
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=leelaf6&show_icons=true&theme=radical&bg_color=0D1117&title_color=58A6FF&text_color=c9d1d9&icon_color=3FB950&border_color=3FB950" alt="GitHub Stats" width="48%" />
+  <!-- Switched to official backup vercel app for Stats & Languages -->
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=leelaf6&show_icons=true&theme=radical&bg_color=0D1117&title_color=58A6FF&text_color=c9d1d9&icon_color=3FB950&border_color=3FB950" alt="GitHub Stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=leelaf6&theme=radical&background=0D1117&title=58A6FF&fire=3FB950&ring=58A6FF&currStreakLabel=c9d1d9&border=3FB950" alt="GitHub Streak" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leelaf6&layout=compact&theme=radical&bg_color=0D1117&title_color=58A6FF&text_color=c9d1d9&border_color=3FB950" alt="Top Languages" width="48%" />
+  <!-- Switched to official backup vercel app for Stats & Languages -->
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=leelaf6&layout=compact&theme=radical&bg_color=0D1117&title_color=58A6FF&text_color=c9d1d9&border_color=3FB950" alt="Top Languages" width="48%" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=leelaf6&theme=react-dark&bg_color=0D1117&color=58A6FF&line=3FB950&point=3FB950" alt="Activity Graph" width="48%" />
 </p>
 
@@ -105,13 +107,13 @@
 
 ### 🌐 Connect With Me
 <p align="left">
-  <a href="https://linkedin.com/in/eelakarthikeya-kante-a06955357" target="_blank">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/leelaf6" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="mailto:leelakarthikeya96@gmail.com" target="_blank">
+  <a href="mailto:YOUR_EMAIL@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
@@ -120,5 +122,5 @@
 
 <!-- Profile Views Counter -->
 <p align="right">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=58a6ff&style=flat-square" alt="Profile Views Counter" />
+  <img src="https://komarev.com/ghpvc/?username=leelaf6&label=Profile%20views&color=58a6ff&style=flat-square" alt="Profile Views Counter" />
 </p>
