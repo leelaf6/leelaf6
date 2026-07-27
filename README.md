@@ -1,16 +1,24 @@
-## Hi there 👋
+# 💫 About Me:
+👋 Hi, I'm Leela Karthikeya Kante<br>Aspiring Software Engineer | Full Stack Developer | Problem Solver<br><br>💻 Passionate about building scalable web applications and solving real-world problems through technology.<br><br>🌱 Currently improving my skills in<br><br>Data Structures & Algorithms<br>Full Stack Development (MERN)<br>Backend Development<br>System Design<br>🚀 About Me<br>🎓 B.Tech in Information Technology<br>💡 Passionate about Software Engineering<br>🏆 Runner-up at a National Level Hackathon<br>📚 NPTEL Elite Certified<br>💻 Consistent LeetCode Problem Solver<br>🌍 Interested in Backend Development, Full Stack Development & AI-powered Applications<br>🛠 Tech Stack<br>Languages<br>Python<br>Java<br>C<br>C++<br>JavaScript<br>Frontend<br>HTML<br>CSS<br>Bootstrap<br>React<br>Backend<br>Flask<br>Node.js<br>Express.js<br>Databases<br>MySQL<br>MongoDB<br>Tools<br>Git<br>GitHub<br>VS Code<br>Postman<br>📈 GitHub Stats<br><br>Enable these cards in GPRM:<br><br>GitHub Stats<br>GitHub Streak<br>Top Languages<br>Activity Graph<br>🏆 Achievements<br>🥈 Runner-up – National Level Hackathon<br>🎖 Elite NPTEL Certifications<br>💯 Active LeetCode Problem Solver<br>👨‍💻 Built multiple Full Stack Projects<br>📂 Featured Projects<br>💰 Expense Tracker<br><br>Flask-based expense management application with category-wise tracking.<br><br>🌐 Random Username Generator<br><br>Generates creative usernames using Python and Flask.<br><br>📝 Word Counter<br><br>Counts words, characters and reading statistics.<br><br>🌐 Connect With Me<br>LinkedIn<br>GitHub<br>Email<br><br>(Add icons through GPRM.)<br><br>👀 Profile Views<br><br>Enable the Profile Views Counter.<br><br>⚡ Fun Fact<br><br>"I enjoy turning ideas into real applications and continuously learning new technologies."<br><br>Recommended GPRM Settings<br><br>Choose these options:<br><br>Theme: Tokyo Night / Radical / Dracula<br>Header: Animated Wave<br>Typing SVG: Yes<br>Social Icons: GitHub, LinkedIn, Gmail<br>Skills Icons: Devicon<br>GitHub Stats: Enabled<br>Top Languages: Enabled<br>Streak Stats: Enabled<br>Snake Contribution Animation: Enabled<br>Activity Graph: Enabled<br>Visitor Counter: Enabled<br>Spotify: Disabled (unless you use it publicly)<br>Blog: Disabled<br>Support: Optional<br>Color Palette<br>🔵 Primary: #58A6FF<br>⚫ Background: #0D1117<br>🟢 Accent: #3FB950
 
-<!--
-**leelaf6/leelaf6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:238w1a12f6@vrsec.ac.in) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat-square&logo=netlify&logoColor=#00C7B7) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat-square&logo=Matplotlib&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=Flutter&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat-square&logo=flask&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=leelaf6&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=leelaf6&theme=shadow_green&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=leelaf6&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=leelaf6&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://komarev.com/ghpvc/?username=leelaf6&icon=8&color=3)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
